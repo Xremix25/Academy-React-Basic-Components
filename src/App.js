@@ -2,9 +2,9 @@ import componentsImage from "./assets/images/components.png";
 import stateImage from "./assets/images/state.png";
 import eventsImage from "./assets/images/events.png";
 
-import Header from "../src/components/header/Header";
-import Card from "../src/components/card/card";
-import Informations from "./components/informations/Informations";
+import Header from "./components/Header/Header";
+import Card from "./components/Card/Card";
+import Informations from "./components/Informations/Informations";
 const concepts = [
   {
     title: "Components",
